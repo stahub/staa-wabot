@@ -1,3 +1,4 @@
+##Deploy
 # Hisoka-Morou
 Script WhatsApp Bot Multi Device
 
